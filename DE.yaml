@@ -1,7 +1,7 @@
 ACCEPTED_SHARE: Du hast eine Punkteteilung mit {0} bestätigt
 ACHIEVEMENT_CHAT_MESSAGE: Achievement [{0}] unlocked!
 ACHIEVEMENT_CHAT_PLAYER_MESSAGE: New achievement unlocked!
-ACHIEVEMENT_GOLDEN_MESSAGE: You have unlocked achievement [{0}].
+ACHIEVEMENT_GOLDEN_MESSAGE: Du hast folgenden Erfolg freigeschlatet [{0}].
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
 ACT4_PVP_DEATH: Die Kraft von {1} wurde von einem Hüter der {0} gestohlen.
@@ -10,7 +10,7 @@ ACT4_PVP_KILL: '{1} hat einen Hüter der {0} getötet'
 ACT4_RAID_OPEN: Der {0} Raid ist geöffnet !
 ADD_OPTION_ON_STUFF: Willst du die Option hinzufügen? Falls ja wird das Item an dich gebunden.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: Die Option wird durch die neue ersetzt. Es besteht eine 50% Chance, ansonsten wird das Item zerstört. Willst du fortfahren?
-ADVENTURER: Adventurer
+ADVENTURER: Abenteurer
 ADVENTURERS_CANT_USE: Abenteurer können diesen Gegenstand nicht benutzen!
 ALREADY_EXCHANGE: Der Spieler tauscht bereits!
 ALREADY_FRIEND: Ihr seid bereits befreundet!
@@ -20,7 +20,7 @@ ALREADY_IN_GROUP: Du bist bereits in einer Gruppe.
 ALREADY_MARRIED: Du bist bereits verheiratet.
 ALREADY_MAX_RARE: Das Item ist bereits vom maximalen Seltenheitslevel.
 ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
-ALREADY_QUEST: You have taken this quest already!
+ALREADY_QUEST: Du hast diese Quest bereits angenommen!
 ALREADY_TAKEN: Dieser Name existiert bereits!
 ALREADY_THIS_MINILANDOBJECT: Du hast diese Miniland Dekoration bereits.
 ALREADY_TWO_ASSISTANT: Du hast bereits zwei Vertreter.
@@ -32,14 +32,14 @@ AMULET_FAIL_SAVED: Das Item wurde dank des Amuletts nicht zerstört
 ARCHER: Archer
 ARENA_CALLED: 'Ein Teilnehmer wurde gerufen: {0}'
 ARENA_KILL: '{0} wurde von {1} getötet.'
-ARENA_NOT_OPEN: Arena talent is open at 18:00 - 22:00
+ARENA_NOT_OPEN: Die Arena der Talente ist zu folgenden Zeiten geöffnet 18:00 - 22:00.
 ARENA_PENALTY_NOTICE: Du stehst noch {0} Sekunden unter Strafe!
 ARENA_TALENT_LEFT: Arena Verlassen
 ARENA_TEAM_FOUND: Teilnehmer gefunden
 ARENA_TEAM_LEAVE: Team verlassen
-ARENA_TEAM_LEFT: '{0} has left the team.'
+ARENA_TEAM_LEFT: '{0} hat das Team verlassen.'
 ARENA_TICKET_LEFT: Remaining participation(s) {0}
-ASK_ADD_TITLE: Do you want to add a title?
+ASK_ADD_TITLE: Möchtest du einen Titel hinzufüen?
 ASK_BIND: Möchtest du das Item benutzen? Das Item wird dann an deinem Charakter gebunden sein.
 ASK_CHANGE_FACTION: Do you want to change your faction?
 ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
@@ -49,15 +49,15 @@ ASK_FAMILY_INVITED: Du wurdest in die {0} Familie eingeladen, möchtest du beitr
 ASK_JOIN_TEAM_TS: Willst du deiner Gruppe beitreten?
 ASK_KICK_PET: Do you want to refer your NosMate to the Mini-Land?
 ASK_OPEN_BOX: Raidkiste öffnen?
-ASK_PARTNER_MAX: Do you want to expand your partner slots?
+ASK_PARTNER_MAX: Möchtest du deine Partner-Slots erweitern?
 ASK_PET_MAX: Petslots um 10 erhöhen?
 ASK_RELEASE_PET: Soll das NosMate ins Miniland zurückkehren?
 ASK_RESET_ALL_PSP_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
-ASK_REVIVE: Hier fortfahren? Es werden 10 Saat der Macht verbraucht.
+ASK_REVIVE: Hier wiederbeleben? Es werden 10 Saat der Macht verbraucht.
 ASK_REVIVE_ARENA: '#ASK_REVIVE_ARENA'
 ASK_REVIVE_FREE: Hier fortfahren? Es ist frei für Level 20 oder niedriger.
 ASK_REVIVE_LOD: Willst du einen Saviour Trank benutzen, um dich wiederzubeleben?
-ASK_REVIVE_PVP: Hier weitermachen? Dann wird 100 Gold benötigt.
+ASK_REVIVE_PVP: Hier weitermachen? Dann wird 100 Gold benötigt!
 ASK_REVIVE_TS: Du wirst mit 50% HP/MP wiederbelebt!
 ASK_REVIVE_TS_LOW_LEVEL: Du wirst mit 50% HP/MP wiederbelebt!
 ASK_STORE_PET: Pet einpacken?
@@ -70,11 +70,11 @@ BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Falsche Anzahl zum wegwerfen.
 BAD_EQUIPMENT: Dein Charakter entspricht nicht allen Anforderungen, um diesen Gegenstand zu tragen!
 BAD_FAIRY: Die Spezialistenkarte und deine Fee haben unterschiedliche Attribute.
-BANK_ASK_DEPOSIT: Do you want to deposit {0} gold to your bank?
+BANK_ASK_DEPOSIT: MÖchtest du {0} gold in die Bank einzahlen?
 BANK_BALANCE: 'Cuarry Bank : Du hast {0} Gold'
 BANK_DEPOSIT: 'Cuarry Bank : Du hast gerade {0} Gold eingezahlt'
-BLACKLIST_ADDED: Der Spieler wurde der Schwarzen Liste hinzugefügt!
-BLACKLIST_BLOCKED: Dieser Spieler blockiert dich
+BLACKLIST_ADDED: Der Spieler wurde zu der Schwarzen Liste hinzugefügt!
+BLACKLIST_BLOCKED: Dieser Spieler blockiert dich.
 BLACKLIST_BLOCKING: Du blockierst diesen Spieler!
 BLACKLIST_DELETED: Der Spieler wurde von der Schwarzen Liste gelöscht!
 BROADCASTER: (Administrator)
@@ -90,9 +90,9 @@ CANNOT_CREATE_MARTIAL_ARTIST: You can't create Martial Artist!
 CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen.
 CANT_ATTACK: Du kannst gerade nicht angreifen.
 CANT_CHANGE_MESSAGE: Du hast deinen Spruch des Tages heute schon bearbeitet. Versuch es morgen nochmal!
-CANT_CREATE_RAID_WHILE_IN_GROUP: You can't create a raid while being in a group.
+CANT_CREATE_RAID_WHILE_IN_GROUP: Du kannst keinen Raid erstellen, währen du dich in einer Gruppe befindest!
 CANT_EQUIP_DESTROYED_SP: Du kannst keine zerstörte Spezialistenkarte anziehen.
-CANT_JOIN_ARENA_IN_RAID: You can't go to arena in raid!
+CANT_JOIN_ARENA_IN_RAID: Du kannst die Arena nicht betreten, solange du dich in einem Raid befindest!
 CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
 CANT_KICK_HEAD: Du kannst Familienvertreter oder Familienoberhäupter nicht entfernen.
 CANT_KICK_SAME_AUTHORITY: Du kannst Familienmitglieder mit dem selben Rang nicht entfernen.
@@ -101,10 +101,10 @@ CANT_MOVE: Du kannst dich in Kürze bewegen
 CANT_UPGRADE_DESTROYED_SP: Du kannst zerstörte Spezialistenkarten nicht verbessern.
 CANT_USE_ITEM: Du kannst das jetzt nicht benutzen.
 CANT_USE_MSG_BUBBLE: '#CANT_USE_MSG_BUBBLE'
-CANT_USE_OUTSIDE_OF_MINILAND: You can do this only in Mini-Land.
+CANT_USE_OUTSIDE_OF_MINILAND: Dies kann nur im Mini-Land gemacht werden.
 CANT_USE_THAT: Du kannst das jetzt nicht machen.
 CAPTURE_FAILED: Fangen fehlgeschlagen!
-CAPTURE_MONSTER_CANNOT_BE_CAPTURED: You can't capture this monster!
+CAPTURE_MONSTER_CANNOT_BE_CAPTURED: Du kannst dieses Monster nicht fangen!
 CELLON_FULL: Du hast die maximale Anzahl an Optionen erreicht.
 CELLON_LEVEL_TOO_HIGH: Das Cellon Level ist höher als das des Schmucks.
 CELLONING_FAILED: Das Cellon ist verschwunden, da das hinzufügen einer Option fehlgeschlagen ist.
@@ -115,25 +115,25 @@ CHANNEL: Channel
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) hat sich gerade eingeloggt!'
 CHARACTER_LOGGED_IN: '{0} hat sich gerade eingeloggt.'
 CHARACTER_LOGGED_OUT: '{0} hat sich gerade ausgeloggt.'
-CHARACTER_NOT_IN_FRIENDLIST: This Player is not in your friendlist
+CHARACTER_NOT_IN_FRIENDLIST: Dieser Spieler befindet sich nicht in deiner Freundes Liste!
 CLASS_CHANGED: Deine Klasse hat sich geändert.
 COMMANDS_AVAILABLE: 'Available commands:'
-COMMANDS_HELP: Help command
-COMMANDS_UNDOCUMENTED: Unknown command.
-COMMANDS_USAGES: Command usage
+COMMANDS_HELP: Hilfsbefehl
+COMMANDS_UNDOCUMENTED: Unbekannter Befehl.
+COMMANDS_USAGES: Befehlsverwendung
 COMPLIMENT_COOLDOWN: Du kannst nur einen Spieler pro Tag anhimmeln.
 COMPLIMENT_GIVEN: Du hast {0} angehimmelt.
 COMPLIMENT_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden anhimmeln kannst.
 COMPLIMENT_NOT_MINLVL: Du musst erst Level 30 erreicht haben, bevor du einen Spieler anhimmeln kannst.
 COMPLIMENT_RECEIVED: Du wurdest von {0} angehimmelt.
-COSTUME_BLOCKED: Costumes disabled.
-COSTUME_UNLOCKED: Costumes enabled.
+COSTUME_BLOCKED: Kostüme ausblenden.
+COSTUME_UNLOCKED: Kostüme einblenden.
 CRAFTED_OBJECT: Du hast {0} x {1} hergestellt.
-CREATE_FAMILY: Do you want to create your family?
-CUARRY_BANK_ITEM_IN_EQ: You already have Cuarry Bank Debit Card in your equipment.
+CREATE_FAMILY: Möchtest du deine Familie gründen?
+CUARRY_BANK_ITEM_IN_EQ: Du verfügst bereits über die Cuarry Bank Karte in deinem Inventar.
 DIGNITY_LOST: Würde -{0}
 DIGNITY_RESTORED: Deine Würde wurde erhöht.
-DISMISS_FAMILY: Do you want to dismiss yur family?
+DISMISS_FAMILY: Möchtest du deine Familie verlassen?
 DIVORCED: Du hast dich von deinem Ehepartner getrennt.
 DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
 DO_YOU_WANT_START_RAID: Willst du den Raid starten?
@@ -143,8 +143,8 @@ DROPPED_ITEM: '{0} x {1} fallen gelassen.'
 EFFECT_ACTIVATED: Der {0} Effekt wurde aktiviert!
 EFFECT_RESISTANCE: '#EFFECT_RESISTANCE'
 EFFECT_TERMINATED: Du hast den {0} Effekt verloren
-EFFECT_TITLE_DISABLED: Title effect has been disabled.
-EFFECT_TITLE_ENABLED: Title affect has been enabled.
+EFFECT_TITLE_DISABLED: Der Titeleffekt wurde deaktiviert.
+EFFECT_TITLE_ENABLED: Der Titeleffekt wurde aktiviert.
 EMO_BLOCKED: Ab sofort werden Smileys nicht mehr angezeigt.
 EMO_UNBLOCKED: Ab sofort werden Smileys angezeigt.
 EQ_NOT_EMPTY: Deine Ausrüstung ist nicht leer!
@@ -157,27 +157,27 @@ EXCHANGE_NOT_ALLOWED_IN_RAID: Du darfst in einem Raid nicht tauschen!
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du darfst nicht mit einem Raid Mitglied tauschen!
 EXCHANGE_REFUSED: Tausch abgelehnt!
 EXCHANGE_UNLOCKED: Von jetzt an akzeptierst du Tauschgeschäfte.
-EXPEVENT_DISABLED: EXP Event has been disabled.
-EXPEVENT_ENABLED: EXP Event has been enabled!
+EXPEVENT_DISABLED: Das EXP Event wurde beendet!
+EXPEVENT_ENABLED: Das EXP Event wurde aktiviert!
 FAIRY_LEVELUP: Dein/e {0} ist im Level aufgestiegen!
 FAIRYMAX: Deine Fee hat das maximale Level erreicht!
 FAIRYSTATS: 'Feen XP: {0}/{1}'
-FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Jemand in deiner Gruppe ist bereits in einer Familie oder hat kürzlich eine Familie verlassen.
 FAMILY_FOUNDED: Die Familie {0} wurde gegründet!
 FAMILY_FULL: Es ist kein Platz mehr in der Familie.
-FAMILY_GROUP_NOT_FULL: You can't create family without full group!
-FAMILY_HEAD_CHANGE_GENDER: Family head has changed gender.
+FAMILY_GROUP_NOT_FULL: Du kannst keine Familie gründen ohne eine volle Gruppe!
+FAMILY_HEAD_CHANGE_GENDER: Das Familienoberhaupt hat das Geschlecht gewechselt.
 FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
 FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
 FAMILY_INVITATION_NOT_ALLOWED: Du hast nicht die Rechte Spieler einzuladen!
 FAMILY_INVITED: Spieler {0} wurde eingeladen
 FAMILY_JOINED: Spieler {0} ist der {1} Familie beigetreten!
-FAMILY_LEAVE: You left the family.
+FAMILY_LEAVE: Du hast die Familie verlassen.
 FAMILY_NAME_ALREADY_USED: Der Familienname ist bereits vergeben!
-FAMILY_RANK_ASSISTANT: Assistant
-FAMILY_RANK_HEAD: Head
-FAMILY_RANK_MANAGER: Manager
-FAMILY_RANK_MEMBER: Member
+FAMILY_RANK_ASSISTANT: Vertreter
+FAMILY_RANK_HEAD: Oberhaupt
+FAMILY_RANK_MANAGER: Verwalter
+FAMILY_RANK_MEMBER: Mitglied
 FAMILY_REQ_LOCKED: Von jetzt an blockst du Familieneinladungen.
 FAMILY_REQ_UNLOCKED: Von jetzt an akzeptierst du Familieneinladungen.
 FAMILY_UP: Familienlevel {0} erreicht!
@@ -193,15 +193,15 @@ FRIEND_REQ_UNLOCKED: Von jetzt an akzeptierst du Freundschaftsanfragen.
 FRIEND_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FXP_INCREASE: Deine Familie hat {0} Erfahrungspunkte gesammelt.
 GAME_CHANNEL: Channel
-GAME_MASTER_OFF: You can't do this!
-GAMEEVENT_ENDED: The event has ended.
-GAMEEVENT_NOT_ENOUGH_PLAYERS: Not enough players for the event.
-GAMEEVENT_WILL_FINISH_IN_A_MINUTE: The event will finish in a minute.
-GENERIC_GAME_PREPARATION_MINUTES: The event will start in {0} minutes.
-GENERIC_GAME_PREPARATION_SECONDS: The event will start in {0} seconds.
+GAME_MASTER_OFF: Dies ist nicht möglich!
+GAMEEVENT_ENDED: Das Event ist vorbei.
+GAMEEVENT_NOT_ENOUGH_PLAYERS: Nicht genügend Spieler für das Event.
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: Das Event endet in einer Minute.
+GENERIC_GAME_PREPARATION_MINUTES: Das Event beginnt in {0} Minuten.
+GENERIC_GAME_PREPARATION_SECONDS: Das Event startet in {0} Sekunden.
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
 GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
-GENERIC_GAME_STARTED: The event has started.
+GENERIC_GAME_STARTED: Das Event hat begonnen.
 GET_PROTECTION_POWER_ANGEL: You got blessed by the protection power of angels!
 GET_PROTECTION_POWER_DEMON: You got blessed by the protection power of demons!
 GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
